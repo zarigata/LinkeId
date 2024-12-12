@@ -1,0 +1,35 @@
+{
+    "linkedin": {
+        "company_page_id": "YOUR_COMPANY_PAGE_ID",
+        "access_token": "YOUR_LINKEDIN_ACCESS_TOKEN"
+    },
+    "ollama": {
+        "host": "http://localhost:11434",
+        "model": "llama2",
+        "persona": {
+            "name": "Professional Tech Content Creator",
+            "tone": "professional and engaging",
+            "style": "informative with a touch of enthusiasm"
+        }
+    },
+    "content_search": {
+        "topics": [
+            "artificial intelligence",
+            "machine learning",
+            "technology trends",
+            "digital transformation",
+            "innovation"
+        ],
+        "sources": [
+            "tech news",
+            "industry reports",
+            "research papers",
+            "case studies"
+        ]
+    },
+    "posting_schedule": {
+        "frequency": "daily",
+        "optimal_times": ["9:00", "14:00", "17:00"],
+        "posts_per_day": 2
+    }
+}
